@@ -1,2 +1,3 @@
-# ads-studies
-Some of my ADS studies in Java and Javascript
+# dsa-studies
+
+Some of my DSA studies in Java and Javascript
